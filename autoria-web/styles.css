@@ -1,0 +1,53 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+    justify-content: space-around;
+}
+main {
+    padding: 0 10%;
+}
+h1 {
+    padding-left: 5px;
+    background-color: #2f4f4f;
+    color: white;
+}
+h2 {
+    border-bottom: 3px solid #9acd32;
+}
+p {
+    text-align: justify;
+}
+
+figcaption {
+    display: flex;
+    justify-content: center;       
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 2%;
+    margin: auto 1%;
+    border-top: 3px solid #9acd32;
+    background-color: #2f4f4f;
+}
+
+address{
+    color: white;
+}
+
+.eajLogo {
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+.fachadaContent {
+    display: flex;
+    border: 1px solid #cccc;
+    justify-content: center;
+    background-color:#f2eded;
+    margin: 0 4%;
+}
+.fachada {
+    justify-content: center;
+    margin: 0;
+}
